@@ -21,7 +21,7 @@
     "express-validator": "^5.2.0",
     "fuse.js": "^3.2.1",
     "jsonwebtoken": "^8.3.0",
-    "moment": "^2.8.4",
+    "moment": "^2.29.4",
     "moment-range": "^1.0.5",
     "mongodb": "^3.0.4",
     "mongoose": "^5.1.2",
